@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AdminBarber</string>
+
+    <string name="login_biometric">Admin App</string>
+    <string name="biometric_desc">use biometric for faster and \neasy access to your account</string>
+
+    <string name="btn_use_biometric">Press to scan</string>
+</resources>

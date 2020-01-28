@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">BarberShop</string>
+    <string name="FACEBOOK_APP_ID" translatable="false">402939667034216</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN" translatable="false"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="address_bullet" translatable="false">\u2022 Address:</string>
+    <string name="time_bullet" translatable="false">\u2022 Time:</string>
+    <string name="stylelist_bullet" translatable="false">\u2022 Stylist:</string>
+    <string name="bullet" translatable="false">\u2022</string>
+    
+    <!-- Multi Language-->
+    <!-- Home Screen-->
+    <!-- Card -->
+    <string name="booking">Booking</string>
+    <string name="cart">Cart</string>
+    <string name="history">History</string>
+    <string name="notification">Notify</string>
+    <string name="memberType">Normal</string>
+    
+    <!-- Update dialog-->
+    <string name="updateBtn">Update</string>
+    
+    <!-- Logout dialog-->
+    <string name="title">Sign Out?</string>
+    <string name="message">Please confirm that you want to sign out</string>
+    <string name="cancelBtn">CANCEL</string>
+    <string name="acceptBtn">OK</string>
+
+
+</resources>

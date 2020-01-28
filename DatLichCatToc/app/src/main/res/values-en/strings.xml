@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Multi Language-->
+    <!-- Home Screen-->
+    <!-- Card -->
+    <string name="booking">Booking</string>
+    <string name="cart">Cart</string>
+    <string name="history">History</string>
+    <string name="notification">Notify</string>
+    <string name="memberType">Normal Type</string>
+
+    <!-- Update dialog-->
+    <string name="updateBtn">Update</string>
+
+    <!-- Logout dialog-->
+    <string name="title">Sign Out?</string>
+    <string name="message">Please confirm that you want to sign out</string>
+    <string name="cancelBtn">CANCEL</string>
+    <string name="acceptBtn">OK</string>
+</resources>

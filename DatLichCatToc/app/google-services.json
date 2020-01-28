@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553004436257",
+    "firebase_url": "https://datlichcattoc-a979c.firebaseio.com",
+    "project_id": "datlichcattoc-a979c",
+    "storage_bucket": "datlichcattoc-a979c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553004436257:android:1c8b4070a0bfce34590c60",
+        "android_client_info": {
+          "package_name": "com.example.datlichcattoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553004436257-1l8cabfflk4lidavgg1pjfdu09unrb18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datlichcattoc",
+            "certificate_hash": "e4753bcc091154a9b36e9f7be08364a294226035"
+          }
+        },
+        {
+          "client_id": "553004436257-bj51eccit9q841ivnp0r1p4ga75rqt94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb0wJjwQmXIWSMgmP8zCOOpjqxNIxyb5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553004436257-bj51eccit9q841ivnp0r1p4ga75rqt94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

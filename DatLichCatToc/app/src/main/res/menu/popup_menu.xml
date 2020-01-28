@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:title="Language"
+        android:icon="@drawable/ic_language_black_24dp"
+        app:showAsAction="always">
+        <menu>
+            <item
+            android:id="@+id/language_en"
+            android:title="English"
+            android:icon="@drawable/england"
+                />
+            <item
+            android:id="@+id/language_vi"
+            android:title="Việt Nam"
+            android:icon="@drawable/vietnam"/>
+            <item
+            android:id="@+id/language_ja"
+            android:title="日本語"
+            android:icon="@drawable/japan"/>
+        </menu>
+    </item>
+</menu>

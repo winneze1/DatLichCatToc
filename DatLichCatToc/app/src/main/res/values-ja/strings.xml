@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Multi Language-->
+    <!-- Home Screen-->
+    <!-- Card -->
+    <string name="booking">予約</string>
+    <string name="cart">カート</string>
+    <string name="history">歴史</string>
+    <string name="notification">通知</string>
+    <string name="memberType">通常のメンバー</string>
+
+    <!-- Update dialog-->
+    <string name="updateBtn">更新</string>
+
+    <!-- Logout dialog-->
+    <string name="title">サインアウト?</string>
+    <string name="message">確認してください</string>
+    <string name="cancelBtn">いいえ</string>
+    <string name="acceptBtn">はい</string>
+</resources>

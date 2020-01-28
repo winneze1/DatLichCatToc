@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorButton">#373738</color>
+    <color name="colorBackground">#F5EEC3</color>
+    <color name="homeBackground">#B3AFAF</color>
+
+    <array name="dot_colors">
+        <item>#03A9F4</item>
+        <item>#E65100</item>
+        <item>#FFBB00</item>
+    </array>
+</resources>

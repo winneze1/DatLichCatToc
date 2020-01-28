@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Multi Language-->
+    <!-- Home Screen-->
+    <!-- Card -->
+    <string name="booking">Đặt Lịch</string>
+    <string name="cart">Giỏ Hàng</string>
+    <string name="history">Lịch Sử</string>
+    <string name="notification">Thông Báo</string>
+    <string name="memberType">Thành Viên Thường</string>
+
+    <!-- Update dialog-->
+    <string name="updateBtn">Cập Nhật</string>
+
+    <!-- Logout dialog-->
+    <string name="title">Đăng Xuất?</string>
+    <string name="message">Xin hãy xác nhận là bạn muốn đăng xuất</string>
+    <string name="cancelBtn">HỦY</string>
+    <string name="acceptBtn">OK</string>
+</resources>
